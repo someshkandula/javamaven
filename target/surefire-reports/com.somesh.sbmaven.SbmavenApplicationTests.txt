@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.somesh.sbmaven.SbmavenApplicationTests
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 3.771 s - in com.somesh.sbmaven.SbmavenApplicationTests
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.769 s - in com.somesh.sbmaven.SbmavenApplicationTests
